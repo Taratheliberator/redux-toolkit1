@@ -1,0 +1,12 @@
+.container {
+  margin: 20px;
+}
+
+.number {
+  padding-left: 0;
+}
+
+.facts > ol {
+position: relative;
+padding-left: 20px;
+}
